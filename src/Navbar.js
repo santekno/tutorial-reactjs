@@ -7,6 +7,7 @@ const Navbar = () => {
       <h1>Santekno Blog</h1>
       <div className="links">
         <Link to="/">Beranda</Link>
+        <Link to="/starwars">StarWars Info</Link>
         <Link to="/create" style={{
           color: "white",
           backgroundColor: "#f1356d",
